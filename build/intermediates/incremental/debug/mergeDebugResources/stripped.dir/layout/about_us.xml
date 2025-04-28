@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- App Name -->
+            <TextView
+                android:id="@+id/app_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="✨ Welcome to our Hostel✨"
+                android:textSize="28sp"
+                android:textStyle="bold"
+
+                android:paddingBottom="12dp" />
+
+            <!-- App Overview -->
+            <TextView
+                android:id="@+id/app_overview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Welcome to our All-in-One Hostel Management App — designed to make your hostel experience smooth, convenient, and efficient! 🏠✨
+
+From mess registration to room allocation, everything you need is just a tap away 📲.
+Simply register yourself and explore all the features our app offers! 🌐💡
+
+For added convenience and better understanding of how to use the app, just follow our friendly 🤖 Chatbot Guide — it's always ready to help!
+"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:paddingBottom="16dp" />
+
+            <!-- More App Info -->
+            <TextView
+                android:id="@+id/app_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Features:\n• ⭐ Easy to Use\n
+⭐ All Hostel Services in One App\n
+⭐ Smart Chatbot Assistance\n
+⭐ Seamless Experience"                 android:textSize="16sp"
+                android:textColor="@color/black"
+                android:paddingBottom="16dp" />
+
+            <!-- Video Tutorial Button -->
+            <Button
+                android:id="@+id/tutorial_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="📺 Watch Tutorial Video"
+                android:textSize="16sp"
+                android:textColor="@android:color/white"
+
+                android:padding="10dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="20dp"/>
+
+            <!-- Contact Info -->
+            <TextView
+                android:id="@+id/contact_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="📞 Contact Us\nEmail: support@hostel.com\nPhone: +91-123456789\n"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:padding="12dp"
+
+                android:gravity="center"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191836213471",
+    "project_id": "hostelallocation-7b750",
+    "storage_bucket": "hostelallocation-7b750.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191836213471:android:cc07de2e7db7577d6d596a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4v3wPHmpWHM5JQ19a19CNdEu97mY3pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

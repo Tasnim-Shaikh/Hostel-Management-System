@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- Mess 1 Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            card_view:cardCornerRadius="16dp"
+            card_view:cardElevation="6dp"
+            android:background="@android:color/white">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tvMess1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🍽️ Mess 1 Registrations"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:textColor="#333333"/>
+
+                <LinearLayout
+                    android:id="@+id/layoutMess1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="8dp"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Mess 2 Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            card_view:cardCornerRadius="16dp"
+            card_view:cardElevation="6dp"
+            android:background="@android:color/white">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tvMess2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🍛 Mess 2 Registrations"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:textColor="#333333"/>
+
+                <LinearLayout
+                    android:id="@+id/layoutMess2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="8dp"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Mess 3 Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            card_view:cardCornerRadius="16dp"
+            card_view:cardElevation="6dp"
+            android:background="@android:color/white">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tvMess3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🥗 Mess 3 Registrations"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:textColor="#333333"/>
+
+                <LinearLayout
+                    android:id="@+id/layoutMess3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="8dp"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</ScrollView>

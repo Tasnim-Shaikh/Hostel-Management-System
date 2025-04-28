@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\forget_password_of_patient.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\forget_password_of_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_main_for_user.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_main_for_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\viewmenu.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\viewmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\about_us.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\setting.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_spash_screen.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_spash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\add_info_of_patient.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\add_info_of_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\main_drawer_header.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\main_drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_drawer_base.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_drawer_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_admin.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\sign_upfragment2.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\sign_upfragment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-5:/layout/about_us.xml",
+        "source": "com.example.myapplication.app-main-8:/layout/about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_chatbot.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_chatbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_check_registrations.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_check_registrations.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_mess_registration.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_mess_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\item_annoncement.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\item_annoncement.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\sign_upfragment.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\sign_upfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\complaint_layout.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\complaint_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\admin_room.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\admin_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\content_layout.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\content_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\options.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\options.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_all_annoncements.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_all_annoncements.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\login.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\attendance_layout.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\attendance_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\announcements.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\announcements.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\item_complaint.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\item_complaint.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_main_for_doctor.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_main_for_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\room_student_item.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\room_student_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\loginfragment2.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\loginfragment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\forget_password_of_doctor.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\forget_password_of_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_room.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_remove_registrations.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_remove_registrations.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\annoncement.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\annoncement.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_put_menu.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_put_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_admin_dashboard.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\signup.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-5:\\layout\\loginfragment.xml",
+        "source": "C:\\Users\\91801\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-8:\\layout\\loginfragment.xml"
+    }
+]

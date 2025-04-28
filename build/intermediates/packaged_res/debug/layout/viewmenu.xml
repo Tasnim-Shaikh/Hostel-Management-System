@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:padding="0dp">
+
+    <!-- Header Section -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@drawable/header_background">
+
+        <TextView
+            android:id="@+id/weekMenuHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Food"
+            android:drawableLeft="@drawable/baseline_food_bank_24"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Menu for the week"
+            android:textSize="16sp"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+    <!-- Date Selector -->
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/dateSelector"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="8dp" />
+    </HorizontalScrollView>
+
+    <!-- Meal Type Tabs -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="8dp"
+        android:layout_marginBottom="4dp">
+
+        <Button
+            android:id="@+id/tab_lunch"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Lunch and Dinner"
+            android:textColor="@android:color/black"
+            android:backgroundTint="@color/cyan"
+         />
+
+
+    </LinearLayout>
+
+    <!-- Scrollable Meal List -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:id="@+id/menuContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp" />
+    </ScrollView>
+
+</LinearLayout>
